@@ -1,8 +1,8 @@
-# Shop Management System
+# Shop Management Software
 
 ## Overview
 
-This Shop Management System is a Java-based application developed for the university capstone project. It serves as a prototype for managing a shop's(Product Dealer) inventory, sales, customer information, and product analysis. The application utilizes Java Swing for the graphical user interface and NetBeans IDE for development. The backend is supported by a MySQL database named `shop_manage`, containing tables for product analysis (`analysis_product`), customers (`customer`), products (`product`), and users (`user`).
+This Shop Management Software is a Java-based application developed for the university capstone project. It serves as a prototype for managing a shop's(Product Dealer) inventory, sales, customer information, and product analysis. The application utilizes Java Swing for the graphical user interface and NetBeans IDE for development. The backend is supported by a MySQL database named `shop_manage`, containing tables for product analysis (`analysis_product`), customers (`customer`), products (`product`), and users (`user`).
 ## Contributors
    1. jahidul hassan reshad-0242220005341197
    2. Rokibul islam -0242220005341167
